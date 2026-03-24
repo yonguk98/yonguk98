@@ -6,7 +6,7 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![STM32](https://img.shields.io/badge/STM32-0078d7.svg?style=for-the-badge&logo=stm32&logoColor=white)
-  ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-D97757?style=for-the-badge&logo=RaspberryPi&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   
   
   ### 🔨 Tools
@@ -22,12 +22,12 @@
 ## 🚀 Projects
 <!-- 핵심 프로젝트 2~3개만 요약하여 작성 -->
 
-### 1. [프로젝트명] - 졸음운전 예방 및 능동제어 시스템
-*   **설명**: React와 WebSocket을 활용한 실시간 채팅 및 문서 편집 서비스
-*   **기간**: 202X.0X ~ 202X.0X (3인 팀 프로젝트)
-*   **핵심 역할**: 프론트엔드 아키텍처 설계, 소켓 통신 구현
-*   **성과**: 불필요한 리렌더링을 50% 감소시켜 렌더링 성능 최적화
-*   🔗 [Link to Project](https://github.com/username/repo)
+### 졸음운전 예방 및 능동제어 시스템
+* **설명**: 복합 센서 융합(Sensor Fusion)을 적용한 Fail-safe 졸음 방지 및 운전 보조 시스템
+* **기간**: 8일 (5인 팀 프로젝트)
+* **핵심 역할**: 팀장, 전체 SW 아키텍처 및 통신 인터페이스(ICD) 설계 주도, 복합 센서 기반 졸음 위험도 판단 및 통신 라우팅을 담당하는 게이트웨이 노드 개발, 모니터링 대시보드 구현
+* **성과**: 부품 누락 및 MCU 보드 변경 이슈 발생 시 통신 인터페이스를 유연하게 전환하고 더미 데이터를 활용하여 전체 시스템을 시나리오 결함 없이 검증 완료, 위험도 임계값 튜닝을 통해 오경보와 미감지 간의 균형점 도출
+* 🔗 [Link to Project](https://github.com/sesac-mobility-embedded-project-team2/highway-drowsiness-prevention)
 
 
 ## 📞 Contact
